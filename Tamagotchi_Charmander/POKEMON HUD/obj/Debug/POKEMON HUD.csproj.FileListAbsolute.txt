@@ -1,0 +1,42 @@
+C:\Users\Adri\Desktop\POKEMON HUD\POKEMON HUD\bin\Debug\POKEMON HUD.exe.config
+C:\Users\Adri\Desktop\POKEMON HUD\POKEMON HUD\bin\Debug\POKEMON HUD.exe
+C:\Users\Adri\Desktop\POKEMON HUD\POKEMON HUD\bin\Debug\POKEMON HUD.pdb
+C:\Users\Adri\Desktop\POKEMON HUD\POKEMON HUD\obj\Debug\POKEMON HUD.csprojAssemblyReference.cache
+C:\Users\Adri\Desktop\POKEMON HUD\POKEMON HUD\obj\Debug\MainWindow.g.cs
+C:\Users\Adri\Desktop\POKEMON HUD\POKEMON HUD\obj\Debug\App.g.cs
+C:\Users\Adri\Desktop\POKEMON HUD\POKEMON HUD\obj\Debug\POKEMON HUD_MarkupCompile.cache
+C:\Users\Adri\Desktop\POKEMON HUD\POKEMON HUD\obj\Debug\MainWindow.baml
+C:\Users\Adri\Desktop\POKEMON HUD\POKEMON HUD\obj\Debug\POKEMON HUD.g.resources
+C:\Users\Adri\Desktop\POKEMON HUD\POKEMON HUD\obj\Debug\POKEMON_HUD.Properties.Resources.resources
+C:\Users\Adri\Desktop\POKEMON HUD\POKEMON HUD\obj\Debug\POKEMON HUD.csproj.GenerateResource.cache
+C:\Users\Adri\Desktop\POKEMON HUD\POKEMON HUD\obj\Debug\POKEMON HUD.csproj.CoreCompileInputs.cache
+C:\Users\Adri\Desktop\POKEMON HUD\POKEMON HUD\obj\Debug\POKEMON HUD.exe
+C:\Users\Adri\Desktop\POKEMON HUD\POKEMON HUD\obj\Debug\POKEMON HUD.pdb
+C:\Users\Adri\Desktop\Informática\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\bin\Debug\POKEMON HUD.exe.config
+C:\Users\Adri\Desktop\Informática\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\bin\Debug\POKEMON HUD.exe
+C:\Users\Adri\Desktop\Informática\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\bin\Debug\POKEMON HUD.pdb
+C:\Users\Adri\Desktop\Informática\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\obj\Debug\POKEMON HUD.csprojAssemblyReference.cache
+C:\Users\Adri\Desktop\Informática\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\obj\Debug\MainWindow.baml
+C:\Users\Adri\Desktop\Informática\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\obj\Debug\MainWindow.g.cs
+C:\Users\Adri\Desktop\Informática\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\obj\Debug\App.g.cs
+C:\Users\Adri\Desktop\Informática\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\obj\Debug\POKEMON HUD_MarkupCompile.cache
+C:\Users\Adri\Desktop\Informática\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\obj\Debug\POKEMON HUD.g.resources
+C:\Users\Adri\Desktop\Informática\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\obj\Debug\POKEMON_HUD.Properties.Resources.resources
+C:\Users\Adri\Desktop\Informática\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\obj\Debug\POKEMON HUD.csproj.GenerateResource.cache
+C:\Users\Adri\Desktop\Informática\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\obj\Debug\POKEMON HUD.csproj.CoreCompileInputs.cache
+C:\Users\Adri\Desktop\Informática\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\obj\Debug\POKEMON HUD.exe
+C:\Users\Adri\Desktop\Informática\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\obj\Debug\POKEMON HUD.pdb
+J:\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\bin\Debug\POKEMON HUD.exe.config
+J:\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\bin\Debug\POKEMON HUD.exe
+J:\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\bin\Debug\POKEMON HUD.pdb
+J:\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\obj\Debug\POKEMON HUD.csprojAssemblyReference.cache
+J:\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\obj\Debug\MainWindow.baml
+J:\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\obj\Debug\MainWindow.g.cs
+J:\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\obj\Debug\App.g.cs
+J:\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\obj\Debug\POKEMON HUD_MarkupCompile.cache
+J:\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\obj\Debug\POKEMON HUD.g.resources
+J:\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\obj\Debug\POKEMON_HUD.Properties.Resources.resources
+J:\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\obj\Debug\POKEMON HUD.csproj.GenerateResource.cache
+J:\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\obj\Debug\POKEMON HUD.csproj.CoreCompileInputs.cache
+J:\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\obj\Debug\POKEMON HUD.exe
+J:\Cuarto año\Segundo cuatri\IPO2\Laboratorio\Primera práctica\POKEMON HUD\POKEMON HUD\obj\Debug\POKEMON HUD.pdb
